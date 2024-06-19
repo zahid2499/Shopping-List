@@ -15,7 +15,7 @@ Firebase Realtime Database
 ## Installation
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/add-to-cart.git
+https://github.com/zahid2499/Shopping-List.git
 ```
 Navigate to the project directory:
 ```sh
